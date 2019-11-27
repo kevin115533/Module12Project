@@ -1,0 +1,9 @@
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\obj\Debug\Module12Solution.csprojAssemblyReference.cache
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\obj\Debug\Module12Solution.frmCustomerAdd.resources
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\obj\Debug\Module12Solution.Properties.Resources.resources
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\obj\Debug\Module12Solution.csproj.GenerateResource.cache
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\bin\Debug\Module12Solution.exe.config
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\bin\Debug\Module12Solution.exe
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\bin\Debug\Module12Solution.pdb
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\obj\Debug\Module12Solution.exe
+C:\Users\Kevin Tran\source\repos\Module12Project\Module12Solution\obj\Debug\Module12Solution.pdb
